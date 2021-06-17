@@ -46,6 +46,7 @@
 <p align="center">
   <a href="https://velog.io/@shadowbboy"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
   <a href="mailto:hkkokily5@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hkkokily5@gmail.com"/></a>
+  <a href="mailto:kokily@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=kokily@naver.com"/></a>
 </p>
 <br />
 
