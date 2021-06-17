@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=KOKILY&fontSize=50&animation=twinkling)
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp 
