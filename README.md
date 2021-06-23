@@ -23,33 +23,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
 </p>
-
-<br />
-
-<h3 align="center">Package Management</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=Homebrew&logoColor=white"/></a>&nbsp 
-</p>
-
-<br />
-
-<h3 align="center">Development Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/M1%20Macbook-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
-</p>
-
-<br />
-
-<h3 align="center"> 🤔 Me 🤔 </h3>
-<p align="center">
-  <a href="https://velog.io/@shadowbboy"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="mailto:hkkokily5@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hkkokily5@gmail.com"/></a>
-  <a href="mailto:kokily@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=kokily@naver.com"/></a>
-</p>
 <br />
 
 <p align="center">
