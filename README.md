@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokily&hide=c,html)
+
 <br />
 
 <h3 align="center">Viridity Tech</h3>
