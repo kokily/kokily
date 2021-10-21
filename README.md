@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokily)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokily&hide=html)
 [![Hyunsung's github stats](https://github-readme-stats.vercel.app/api?username=kokily)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
